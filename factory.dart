@@ -37,3 +37,9 @@ main() {
     print(err);
   }
 }
+//output
+/*
+12.566370614359172
+4
+Can't create triangle.
+*/
